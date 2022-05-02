@@ -4,3 +4,7 @@
 .color-fondo-navbar{
     background-color: #FBDFE9;
 }
+.galeria:hover{
+    filter:opacity(0.9);
+    transform: scale(1.04);
+  }
