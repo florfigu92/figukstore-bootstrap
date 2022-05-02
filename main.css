@@ -8,3 +8,8 @@
     filter:opacity(0.9);
     transform: scale(1.04);
   }
+
+  .navegacion ul li a{
+    color: #000000;
+    text-decoration: none;
+}
